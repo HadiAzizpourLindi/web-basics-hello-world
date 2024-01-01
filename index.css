@@ -5,7 +5,7 @@
 /* #answer-display will have black text on a white background.
    Hovering the mouse over it will reveal the text */
 #answer-display {
-  background-color: #000;
+  background-color: #005;
 }
 
 #answer-display:hover {
